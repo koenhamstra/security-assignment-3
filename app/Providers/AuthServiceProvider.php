@@ -27,7 +27,7 @@ class AuthServiceProvider extends ServiceProvider
         $this->registerPolicies();
 
         Gate::define('update-blog', function (User $user){
-            return ($user->email == 'hams0001@hz.nl');
+            return ($user->email == 'admin@admin.nl');
         });
     }
 }
