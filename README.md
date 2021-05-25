@@ -7,6 +7,15 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+## About Assignment
+
+Here you can find the instructions for security assignment 3:
+
+1. Make sure you first register with "admin@admin.nl" as your email. this will make you an admin of the application.
+2. Go to the 'Blog' page and view the blogs.
+3. When you view the blog as an admin you will be able to see an edit button. But only as an admin.
+4. The edit button requires access controll and prevent IDOR.
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
