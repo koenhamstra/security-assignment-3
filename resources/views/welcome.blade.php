@@ -109,7 +109,7 @@
         <div class="row d_flex">
             <div class="col-md-5">
                 <div class="text-bg">
-                    <h1>Mr.<br> Hamstra</h1>
+                    <h1>Koen<br> Hamstra</h1>
                     <span>Framework Development 2</span>
                     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
                         labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud </p>
